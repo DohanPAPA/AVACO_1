@@ -14,6 +14,7 @@ namespace Socket_Control
     {
         public Form1()
         {
+            //
             InitializeComponent();
         }
     }
