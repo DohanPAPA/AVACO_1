@@ -12,6 +12,7 @@ namespace Socket_Control
 {
     public partial class Form1 : Form
     {
+        // 두번째
         public Form1()
         {
             //
